@@ -1,5 +1,3 @@
-# kod-kata-whether
-
 # Kod-kata
 ## iOS/Android-utvecklare
 
